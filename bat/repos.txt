@@ -1,5 +1,0 @@
-GitHub,flow123d/flow123d,understrap/understrap,tango-controls/cppTango
-FeatureBranch,linbox-team/fflas-ffpack,luca-heltai/ePICURE,dragonchain/dragonchain
-GitFlow,RocketChat/Rocket.Chat,Kinvey/swift-sdk,smartdevicelink/sdl_atf
-Trunk-basedDevelopment,SeleniumHQ/selenium,appium/appium,nusmodifications/nusmods
-CactusModel,OpenFastPath/ofp,samtecspg/articulate,samtecspg/conveyor
